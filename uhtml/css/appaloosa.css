@@ -1,4 +1,4 @@
-/*Appaloosa (Report) - publication style: Version: fe41a2df547a7247ae5ec06713366f1b3e1f0c79 12 June 2023 18:00:00  
+/*Appaloosa (Report) - publication style: 29 Jan 2024
 
 /*body*/
 
@@ -495,9 +495,9 @@ h4.bookversion {
     font-size: 12px;
     color: #000000;
     font-weight: 400;
-    padding-top: 44em;
+    padding-top: 4em;
     margin: 0;
-    text-align: right;
+    text-align: left;
   }
   
 h1.part {
